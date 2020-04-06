@@ -26,7 +26,7 @@ You can interact in this game by using:
  * Mouse rotation => Aim
 
 ### Goal
-![Image Du Jeu]()
+![Image Du Jeu](https://github.com/Clemyxy/TankDevCourseFiles-4.23/blob/master/TankDevCourseScreen.png)
 
 Your goal is to defend yourself against the other tanks and shoot them till only you remain.
 
@@ -54,7 +54,7 @@ The fundamentals of unreal :<br/>
 * Navigate through UE issues report (https://issues.unrealengine.com/).
 * Better myself at searching how to fix/get around a bug or glitch(ex: Hot reload resetting meshes in BPs).
 
-##TODO
+## TODO
 
 * Finish this course.
 * Fix UE's Landscape "jumpy" glitch (A fix to seems to be exporting the landscape to a 3DRender software and export it back
