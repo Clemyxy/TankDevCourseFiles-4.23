@@ -4,7 +4,7 @@ Toy project to go in depth about Unreal Engine's uses.
 
 This project is the second part of an Udemy course by Gamedev.Tv (https://www.udemy.com/course/unrealcourse/)
 
-The goal of this is to have a first look at Unreal's different aspects to create a very basic "game".
+The goal of this is to make a more complex and complete game than the first one by using more of UE's tools.
 
 ## Getting Started
 
